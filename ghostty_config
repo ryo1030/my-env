@@ -30,3 +30,4 @@ window-padding-balance = true
 # macOS 設定
 # macos-titlebar-style = tabs
 macos-option-as-alt = true
+copy-on-select = clipboard
