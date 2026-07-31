@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "lines": [
+    [
+      {
+        "id": "1",
+        "type": "model",
+        "color": "cyan"
+      },
+      {
+        "id": "3",
+        "type": "context-length",
+        "color": "brightBlack"
+      },
+      {
+        "id": "5",
+        "type": "git-branch",
+        "color": "magenta"
+      },
+      {
+        "id": "7",
+        "type": "git-changes",
+        "color": "yellow"
+      }
+    ],
+    [
+      {
+        "id": "d5a17137-b4ca-4680-ae95-1290b9ce6473",
+        "type": "session-usage",
+        "backgroundColor": "bgRed"
+      },
+      {
+        "id": "b3eb33ed-2fbb-481f-986f-a9bcd3ec1e8a",
+        "type": "weekly-usage",
+        "backgroundColor": "bgMagenta"
+      },
+      {
+        "id": "e8dbccbc-d722-43ec-a2ff-fb0f56e6b8c8",
+        "type": "fable-weekly-usage",
+        "backgroundColor": "bgBlue"
+      },
+      {
+        "id": "691e580c-d9e2-4859-92d8-1e20a76f6b22",
+        "type": "reset-timer",
+        "backgroundColor": "bgYellow"
+      },
+      {
+        "id": "ce5dd387-8e3c-4c92-a6a6-b7b3f09d2747",
+        "type": "weekly-reset-timer",
+        "backgroundColor": "bgBrightBlue"
+      }
+    ],
+    []
+  ],
+  "flexMode": "full-minus-40",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "defaultPadding": " ",
+  "defaultPaddingSide": "both",
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "gitCacheTtlSeconds": 5,
+  "minimalistMode": false,
+  "powerline": {
+    "enabled": true,
+    "separators": [
+      ""
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [
+      ""
+    ],
+    "endCaps": [
+      ""
+    ],
+    "theme": "tokyonight",
+    "autoAlign": true,
+    "continueThemeAcrossLines": true
+  },
+  "exportedBy": "2.2.27"
+}
