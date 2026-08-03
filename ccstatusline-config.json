@@ -8,26 +8,36 @@
         "color": "cyan"
       },
       {
-        "id": "3",
-        "type": "context-length",
-        "color": "brightBlack"
+        "id": "73e6cd67-20e1-49ca-b1e1-4da6e00056fc",
+        "type": "thinking-effort",
+        "backgroundColor": "bgMagenta"
+      },
+      {
+        "id": "7fdfc4ed-cd3f-4e0e-86fa-af973b82a59d",
+        "type": "claude-session-id",
+        "backgroundColor": "bgBrightGreen"
       },
       {
         "id": "5",
         "type": "git-branch",
         "color": "magenta"
-      },
-      {
-        "id": "7",
-        "type": "git-changes",
-        "color": "yellow"
       }
     ],
     [
       {
+        "id": "f4a2c87c-afe8-4c27-9881-1ce4de619413",
+        "type": "context-bar",
+        "backgroundColor": "bgBrightGreen"
+      },
+      {
         "id": "d5a17137-b4ca-4680-ae95-1290b9ce6473",
         "type": "session-usage",
         "backgroundColor": "bgRed"
+      },
+      {
+        "id": "691e580c-d9e2-4859-92d8-1e20a76f6b22",
+        "type": "reset-timer",
+        "backgroundColor": "bgYellow"
       },
       {
         "id": "b3eb33ed-2fbb-481f-986f-a9bcd3ec1e8a",
@@ -38,11 +48,6 @@
         "id": "e8dbccbc-d722-43ec-a2ff-fb0f56e6b8c8",
         "type": "fable-weekly-usage",
         "backgroundColor": "bgBlue"
-      },
-      {
-        "id": "691e580c-d9e2-4859-92d8-1e20a76f6b22",
-        "type": "reset-timer",
-        "backgroundColor": "bgYellow"
       },
       {
         "id": "ce5dd387-8e3c-4c92-a6a6-b7b3f09d2747",
@@ -76,7 +81,7 @@
       ""
     ],
     "theme": "tokyonight",
-    "autoAlign": true,
+    "autoAlign": false,
     "continueThemeAcrossLines": true
   },
   "exportedBy": "2.2.27"
